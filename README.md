@@ -7,9 +7,8 @@ in the skull's eyes, a custom enchantment and simple forge recipes.
 
 ![Mannoroth Shield in third person](docs/images/third-person.jpg)
 
-> **Status: downloads are not available yet.** The shield's model and textures come from the original mod and are
-> based on World of Warcraft art. They will be released once redistribution permission is confirmed (see
-> [Credits and permissions](#credits-and-permissions)).
+**[Download the latest release](https://github.com/71Kevin/mannoroth-shield-se/releases/latest)**: 2K and 4K
+packages, see [Downloads](#downloads).
 
 ## Features
 
@@ -41,19 +40,22 @@ in the skull's eyes, a custom enchantment and simple forge recipes.
 
 Install **one** package. Both contain the same plugin, meshes and script; only the texture size changes.
 
-| Package | Diffuse and normal map | Video memory | Download |
+| Package | Diffuse and normal map | Video memory | Download (version 1.0) |
 |---|---|---|---|
-| `Mannoroth Shield SE (2K) - 1.0.7z` | 4096 px | about 53 MB | not released yet |
-| `Mannoroth Shield SE (4K) - 1.0.7z` | 8192 px | about 197 MB | not released yet |
+| 2K | 4096 px | about 53 MB | [Mannoroth-Shield-SE-2K-1.0.7z](https://github.com/71Kevin/mannoroth-shield-se/releases/download/v1.0/Mannoroth-Shield-SE-2K-1.0.7z) (26.3 MB) |
+| 4K | 8192 px | about 197 MB | [Mannoroth-Shield-SE-4K-1.0.7z](https://github.com/71Kevin/mannoroth-shield-se/releases/download/v1.0/Mannoroth-Shield-SE-4K-1.0.7z) (107.2 MB) |
 
 The source texture is a 512 px painting, so the labels describe the detail you see rather than the file size: the
-4096 px set looks like a 2K texture and the 8192 px set like a 4K one.
+4096 px set looks like a 2K texture and the 8192 px set like a 4K one. Release notes and SHA-256 checksums:
+[v1.0](https://github.com/71Kevin/mannoroth-shield-se/releases/tag/v1.0).
 
-| Where | Link |
+### Mod pages
+
+| Page | Link |
 |---|---|
-| GitHub Releases | not released yet |
-| Dwemer Mods | not uploaded yet |
-| Original mod (Skyrim LE) | [Nexus Mods, mod 74030](https://www.nexusmods.com/skyrim/mods/74030) |
+| GitHub Releases | [All releases](https://github.com/71Kevin/mannoroth-shield-se/releases) |
+| Dwemer Mods | Coming soon |
+| Original mod (Skyrim LE) | [Tusk of Mannoroth standalone shield on Nexus Mods](https://www.nexusmods.com/skyrim/mods/74030) |
 
 ## Requirements
 
@@ -154,8 +156,10 @@ Skyrim LE archive and the vanilla game files.
 - **Tinesh**: SE/AE port and remaster.
 - Tools: Blender, PyNifly, Mutagen, DirectXTex, the Papyrus Compiler from the Creation Kit, 7-Zip.
 
-The model and textures belong to their authors and are not part of this repository. Redistribution permission for
-them has not been confirmed yet, so no package is published here until it is. No license has been chosen yet for the
-code in this repository.
+The model and textures in the release packages come from the original mod and remain the property of their
+respective owners; they are not part of the source code in this repository. World of Warcraft is a trademark of
+Blizzard Entertainment, Inc. This is a free, non-commercial fan project, not affiliated with or endorsed by Blizzard
+Entertainment or Bethesda Softworks. If you hold rights to any of this content and want it changed or removed, please
+[open an issue](https://github.com/71Kevin/mannoroth-shield-se/issues).
 
-This project is not affiliated with or endorsed by Blizzard Entertainment or Bethesda Softworks.
+No license has been chosen yet for the code in this repository.
