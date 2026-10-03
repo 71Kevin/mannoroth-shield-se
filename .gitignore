@@ -1,0 +1,15 @@
+# Original Skyrim LE archive (download it from the original mod page, see README)
+original/
+
+# Build output and upscaled intermediates (recreated by build.ps1)
+out/
+cache/
+dist/
+
+# .NET
+plugin/bin/
+plugin/obj/
+
+# Python
+__pycache__/
+*.pyc
