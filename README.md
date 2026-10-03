@@ -54,7 +54,7 @@ The source texture is a 512 px painting, so the labels describe the detail you s
 | Page | Link |
 |---|---|
 | GitHub Releases | [All releases](https://github.com/71Kevin/mannoroth-shield-se/releases) |
-| Dwemer Mods | Coming soon |
+| Dwemer Mods | [Mannoroth Shield - SE AE Port and Remaster](https://dwemermods.com/mods/4807) |
 | Original mod (Skyrim LE) | [Tusk of Mannoroth standalone shield on Nexus Mods](https://www.nexusmods.com/skyrim/mods/74030) |
 
 ## Requirements
