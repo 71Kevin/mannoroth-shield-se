@@ -156,6 +156,10 @@ Skyrim LE archive and the vanilla game files.
 - **Tinesh**: SE/AE port and remaster.
 - Tools: Blender, PyNifly, Mutagen, DirectXTex, the Papyrus Compiler from the Creation Kit, 7-Zip.
 
+## Support My Work
+
+If you enjoy my mods and want to support future projects, you can buy me a coffee on Ko-fi: [**Support me on Ko-fi**](https://ko-fi.com/tinesh)
+
 The model and textures in the release packages come from the original mod and remain the property of their
 respective owners; they are not part of the source code in this repository. World of Warcraft is a trademark of
 Blizzard Entertainment, Inc. This is a free, non-commercial fan project, not affiliated with or endorsed by Blizzard
