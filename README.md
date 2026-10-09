@@ -41,7 +41,7 @@ packages, see [Downloads](#downloads).
 Install **one** package. Both contain the same plugin, meshes and script; only the texture size changes.
 
 | Package | Diffuse and normal map | Download (version 1.0) |
-|---|---|---|---|
+|---|---|---|
 | 2K | 4096 px | [Mannoroth-Shield-SE-2K-1.0.7z](https://github.com/71Kevin/mannoroth-shield-se/releases/download/v1.0/Mannoroth-Shield-SE-2K-1.0.7z) (26.3 MB) |
 | 4K | 8192 px | [Mannoroth-Shield-SE-4K-1.0.7z](https://github.com/71Kevin/mannoroth-shield-se/releases/download/v1.0/Mannoroth-Shield-SE-4K-1.0.7z) (107.2 MB) |
 
