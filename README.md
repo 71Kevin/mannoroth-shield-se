@@ -158,12 +158,5 @@ Skyrim LE archive and the vanilla game files.
 
 ## Support My Work
 
-If you enjoy my mods and want to support future projects, you can buy me a coffee on Ko-fi: [**Support me on Ko-fi**](https://ko-fi.com/tinesh)
-
-The model and textures in the release packages come from the original mod and remain the property of their
-respective owners; they are not part of the source code in this repository. World of Warcraft is a trademark of
-Blizzard Entertainment, Inc. This is a free, non-commercial fan project, not affiliated with or endorsed by Blizzard
-Entertainment or Bethesda Softworks. If you hold rights to any of this content and want it changed or removed, please
-[open an issue](https://github.com/71Kevin/mannoroth-shield-se/issues).
-
-No license has been chosen yet for the code in this repository.
+If you enjoy my mods and want to support future projects, you can buy me a coffee on Ko-fi:
+[**Support me on Ko-fi**](https://ko-fi.com/tinesh)
